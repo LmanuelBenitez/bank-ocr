@@ -3,17 +3,15 @@ En las historia de usuario existe una con los numeros: 000000051 (La cual la mar
 Pero al momento de aplicar la formula (1*d1 + 2*d2 + 3*d3 + ...) mod 11 = 0
 
 Usando:
-numberPosition := map[string]int{
-		"d9": 3,
-		"d8": 4,
-		"d7": 5,
-		"d6": 8,
-		"d5": 8,
-		"d4": 2,
-		"d3": 8,
-		"d2": 6,
-		"d1": 5,
-	}
+"d9": 3,
+"d8": 4,
+"d7": 5,
+"d6": 8,
+"d5": 8,
+"d4": 2,
+"d3": 8,
+"d2": 6,
+"d1": 5,
  
 El resultado que arroja es 23 ya que (5*4 + 1*3) = 23  --> 23%11 no es igual a 0
 
