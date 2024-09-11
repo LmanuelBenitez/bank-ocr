@@ -1,6 +1,6 @@
 En las historia de usuario existe una con los numeros: 000000051 (La cual la marca con el estado de 'OK')
 
-Pero al momento de aplicar la formula (1*d1 + 2*d2 + 3*d3 + ...) mod 11 = 0
+Pero al momento de aplicar la formula (1(d1) + 2(d2) + 3(d3) + ...) mod 11 = 0
 
 Usando:
 "d9": 3,
